@@ -2,7 +2,7 @@
 ## Preview
 ![Untitled Project](https://user-images.githubusercontent.com/91388754/148224485-9701bbdd-3943-44d9-b3af-5170df13dc1d.gif)
 # Yotube Video:
-* Part1 : https://www.youtube.com/watch?v=uGu3lSaw4jk&t=62s
+* Part1 : https://youtu.be/uGu3lSaw4jk
 * Part2 : https://youtu.be/2QjEZxujcZs
 
 ## Links
